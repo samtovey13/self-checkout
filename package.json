@@ -1,0 +1,17 @@
+{
+  "name": "mob-shopping-basket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --verbose --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "expect": "^26.1.0"
+  }
+}
